@@ -5,7 +5,7 @@ import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
 import com.mennarsas.app_mennar_turnos.screens.LoginScreen
-import com.mennarsas.app_mennar_turnos.Screens.TurnerosScreen
+import com.mennarsas.app_mennar_turnos.screens.TurnerosScreen
 
 @Composable
 fun AppNavigation() {
